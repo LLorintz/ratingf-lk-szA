@@ -101,3 +101,17 @@ p{
     color: var(--Dark-Blue);
 }
 
+.thankyou{
+    text-align: center;
+}
+
+.selectedrate{
+    margin-top: 20px;
+    margin: 20px auto 20px auto; 
+    padding: 10px;
+    border-radius: 20px;
+    color: var(--Orange);
+    background-color: var(--Star-container);
+    width:fit-content;
+
+}
